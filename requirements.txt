@@ -1,4 +1,3 @@
-ultralytics
 pycocotools
 packaging==21.3
 easyocr

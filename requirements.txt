@@ -8,4 +8,5 @@ Pillow
 torch
 torchvision
 numpy
+tqdm
 opencv-python

@@ -6,7 +6,7 @@ import easyocr
 import re
 import os
 from PIL import Image
-ps.system("pip uninstall opencv-contrib-python")
+os.system("pip uninstall opencv-contrib-python")
 os.system("pip uninstall opencv-contrib-python-headless")
 MODEL_PATH = "yolov8n.pt"
 SRC_PATH = "uploaded_video.mp4"

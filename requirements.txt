@@ -1,0 +1,12 @@
+ultralytics
+pycocotools
+packaging==21.3
+easyocr
+streamlit
+matplotlib
+onnxruntime
+Pillow
+torch
+torchvision
+numpy
+opencv-python

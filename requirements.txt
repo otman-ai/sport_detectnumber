@@ -1,15 +1,3 @@
-pycocotools
-packaging==21.3
-easyocr
-streamlit
-matplotlib
-onnxruntime
-Pillow
-torch
-torchvision
-numpy
-tqdm
-opencv-python
 
 # Ultralytics requirements
 # Usage: pip install -r requirements.txt
